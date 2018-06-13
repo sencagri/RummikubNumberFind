@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">OpenCVTest</string>
+    <string name="title_activity_rummikub_result">RummikubResult</string>
+</resources>
